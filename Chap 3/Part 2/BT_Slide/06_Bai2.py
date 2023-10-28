@@ -1,0 +1,17 @@
+n=int(input('n='))
+x=0
+
+if n==2:
+    x=1
+elif 2<n<=100:
+    for i in range(1,n):
+        if n%i==0:
+            x=0
+        else:
+            x=1
+
+if x==1:
+    print(f'{n} khong la SNT')
+else:
+    print(f'{n} la SNT')
+        
