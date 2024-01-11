@@ -1,0 +1,6 @@
+str=input().strip()
+str=str.capitalize()
+str=str.split()
+str=' '.join(str)
+kq=str.replace(' , ',', ').replace(' . ','. ').replace(' ; ','; ').replace(' : ',': ')
+print(kq)

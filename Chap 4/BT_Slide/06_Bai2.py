@@ -3,12 +3,19 @@ def nhap():
     return n
 
 def ktr(n):
-    for i in range(1,n+1):
-        for j in range(1,i):
-            if i%j==0:
-                False
-            else:
-                print(j,end=' ',sep=', ')
+    snt=True
+    for i in range(2,n):
+        if n%i==0:
+            snt=False
+            break
+    return snt
+
+def kq(snt):
+    if snt==True:
+        print(f'{n} la SNT')
+    else:
+        print(f'{n} khong la SNT')
                 
 n=nhap()
-ktr(n)
+snt=ktr(n)
+kq(snt)

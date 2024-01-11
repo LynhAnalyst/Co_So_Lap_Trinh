@@ -13,4 +13,3 @@ while True:
     tt=input('\nTiep tuc khong?')
     if tt=='k' or tt=='K':
         break
-        

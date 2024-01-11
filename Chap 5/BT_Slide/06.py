@@ -1,18 +1,9 @@
-L=[]
-def nhap():
-    a=1
-    while a<=10:
-        n=int(input())
-        L.append(n)
-        a+=1
-    return L
+L=[[1,2,3],[4,5,6],[7,8,9]]
 
-def ktr(L):
-    x=int(input('x='))
-    for i in (L):
-        if i==5:
-            i=x
-    print(L)
-            
-L=nhap()
-ktr(L)
+for i in range(3):
+    for j in range(3):
+        if L[i][j]%2==0:
+            L[i][j]='x'
+
+for row in L:
+    print(row)
