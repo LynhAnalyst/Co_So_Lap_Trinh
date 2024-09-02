@@ -5,7 +5,7 @@ Master the concepts of programming, algorithms, algorithms, and programs; and th
 * Python [Download](https://www.python.org/downloads/)
 * Spyder IDE [Download](https://www.spyder-ide.org/)
 * Hướng dẫn cài Python + Spyder trên Windows [view](https://www.youtube.com/watch?v=ZxDG_9Uv2Hs)
-* Hướng dẫn sử dụng Google Colab [Link1](https://trituenhantao.io/lap-trinh/lam-quen-voi-google-colab/)[Link2](https://www.youtube.com/watch?v=Ql_ujv8ZjWI)
+* Hướng dẫn sử dụng Google Colab [Link1](https://trituenhantao.io/lap-trinh/lam-quen-voi-google-colab/) [Link2](https://www.youtube.com/watch?v=Ql_ujv8ZjWI)
 * Hướng dẫn sử dụng Jupyter Notebook với Spyder IDE [view](https://www.youtube.com/watch?v=QXh_hdm8KfA)
 * GitHub: Git và Github toàn tập [view](https://www.youtube.com/watch?v=gjQDyND-vN8&list=PLwJr0JSP7i8D041yrTcWB_qEdzijIUX-q)
 
