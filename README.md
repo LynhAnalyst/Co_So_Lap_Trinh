@@ -1,6 +1,3 @@
-## Target
-Master the concepts of programming, algorithms, algorithms, and programs; and the knowledge base of the Python language.
-
 ## Installation
 * Python [Download](https://www.python.org/downloads/)
 * Spyder IDE [Download](https://www.spyder-ide.org/)
